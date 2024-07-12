@@ -1,0 +1,611 @@
+Usia,Gender,std,Status
+0,male,2.1,severly underweight
+0,male,2.5,Underweight
+0,male,2.9,Normal
+0,male,3.9,Normal
+0,male,4.4,Overweight
+1,male,2.9,severly underweight
+1,male,3.4,Underweight
+1,male,3.9,Normal
+1,male,5.1,Normal
+1,male,5.8,Overweight
+2,male,3.8,severly underweight
+2,male,4.3,Underweight
+2,male,4.9,Normal
+2,male,6.3,Normal
+2,male,7.1,Overweight
+3,male,4.4,severly underweight
+3,male,5,Underweight
+3,male,5.7,Normal
+3,male,7.7,Normal
+3,male,8,Overweight
+4,male,4.9,severly underweight
+4,male,5.6,Underweight
+4,male,6.2,Normal
+4,male,7.8,Normal
+4,male,8.7,Overweight
+5,male,5.3,severly underweight
+5,male,6,Underweight
+5,male,6.7,Normal
+5,male,8.4,Normal
+5,male,9.3,Overweight
+6,male,5.7,severly underweight
+6,male,6.4,Underweight
+6,male,7.1,Normal
+6,male,8.8,Normal
+6,male,9.8,Overweight
+7,male,5.9,severly underweight
+7,male,6.7,Underweight
+7,male,7.4,Normal
+7,male,9.2,Normal
+7,male,10.3,Overweight
+8,male,6.2,severly underweight
+8,male,6.9,Underweight
+8,male,7.7,Normal
+8,male,9.6,Normal
+8,male,10.7,Overweight
+9,male,6.4,severly underweight
+9,male,7.1,Underweight
+9,male,8,Normal
+9,male,9.9,Normal
+9,male,11,Overweight
+10,male,6.6,severly underweight
+10,male,7.4,Underweight
+10,male,8.2,Normal
+10,male,10.2,Normal
+10,male,11.4,Overweight
+11,male,6.8,severly underweight
+11,male,7.6,Underweight
+11,male,8.4,Normal
+11,male,10.5,Normal
+11,male,11.7,Overweight
+12,male,6.9,severly underweight
+12,male,7.7,Underweight
+12,male,8.6,Normal
+12,male,10.8,Normal
+12,male,12,Overweight
+13,male,7.1,severly underweight
+13,male,7.9,Underweight
+13,male,8.8,Normal
+13,male,11,Normal
+13,male,12.3,Overweight
+14,male,7.2,severly underweight
+14,male,8.1,Underweight
+14,male,9,Normal
+14,male,11.3,Normal
+14,male,12.6,Overweight
+15,male,7.4,severly underweight
+15,male,8.3,Underweight
+15,male,9.2,Normal
+15,male,11.5,Normal
+15,male,12.8,Overweight
+16,male,7.5,severly underweight
+16,male,8.4,Underweight
+16,male,9.4,Normal
+16,male,11.7,Normal
+16,male,13.1,Overweight
+17,male,7.7,severly underweight
+17,male,8.6,Underweight
+17,male,9.6,Normal
+17,male,12,Normal
+17,male,13.4,Overweight
+18,male,7.8,severly underweight
+18,male,8.8,Underweight
+18,male,9.8,Normal
+18,male,12.2,Normal
+18,male,13.7,Overweight
+19,male,8,severly underweight
+19,male,8.9,Underweight
+19,male,10,Normal
+19,male,12.5,Normal
+19,male,13.9,Overweight
+20,male,8.1,severly underweight
+20,male,9.1,Underweight
+20,male,10.1,Normal
+20,male,12.7,Normal
+20,male,14.2,Overweight
+21,male,8.2,severly underweight
+21,male,9.2,Underweight
+21,male,10.3,Normal
+21,male,12.9,Normal
+21,male,14.5,Overweight
+22,male,8.4,severly underweight
+22,male,9.4,Underweight
+22,male,10.5,Normal
+22,male,13.2,Normal
+22,male,14.7,Overweight
+23,male,8.5,severly underweight
+23,male,9.5,Underweight
+23,male,10.7,Normal
+23,male,13.4,Normal
+23,male,15,Overweight
+24,male,8.6,severly underweight
+24,male,9.7,Underweight
+24,male,10.8,Normal
+24,male,13.6,Normal
+24,male,15.3,Overweight
+25,male,8.8,severly underweight
+25,male,9.8,Underweight
+25,male,11,Normal
+25,male,13.9,Normal
+25,male,15.5,Overweight
+26,male,8.9,severly underweight
+26,male,10,Underweight
+26,male,11.2,Normal
+26,male,14.1,Normal
+26,male,15.8,Overweight
+27,male,9,severly underweight
+27,male,10.1,Underweight
+27,male,11.3,Normal
+27,male,14.3,Normal
+27,male,16.1,Overweight
+28,male,9.1,severly underweight
+28,male,10.2,Underweight
+28,male,11.5,Normal
+28,male,14.5,Normal
+28,male,16.5,Overweight
+29,male,9.2,severly underweight
+29,male,10.4,Underweight
+29,male,11.7,Normal
+29,male,14.8,Normal
+29,male,16.6,Overweight
+30,male,9.4,severly underweight
+30,male,10.5,Underweight
+30,male,11.8,Normal
+30,male,15,Normal
+30,male,16.9,Overweight
+31,male,9.5,severly underweight
+31,male,10.7,Underweight
+31,male,12,Normal
+31,male,15.2,Normal
+31,male,17.1,Overweight
+32,male,9.6,severly underweight
+32,male,10.8,Underweight
+32,male,12.1,Normal
+32,male,15.4,Normal
+32,male,17.4,Overweight
+33,male,9.7,severly underweight
+33,male,10.9,Underweight
+33,male,12.3,Normal
+33,male,15.6,Normal
+33,male,17.6,Overweight
+34,male,9.8,severly underweight
+34,male,11,Underweight
+34,male,12.4,Normal
+34,male,15.8,Normal
+34,male,17.8,Overweight
+35,male,9.9,severly underweight
+35,male,11.2,Underweight
+35,male,12.6,Normal
+35,male,16,Normal
+35,male,18.1,Overweight
+36,male,10,severly underweight
+36,male,11.3,Underweight
+36,male,12.7,Normal
+36,male,16.2,Normal
+36,male,18.3,Overweight
+37,male,10.1,severly underweight
+37,male,11.4,Underweight
+37,male,12.9,Normal
+37,male,16.4,Normal
+37,male,18.6,Overweight
+38,male,10.2,severly underweight
+38,male,11.5,Underweight
+38,male,13,Normal
+38,male,16.6,Normal
+38,male,18.8,Overweight
+39,male,10.3,severly underweight
+39,male,11.6,Underweight
+39,male,13.1,Normal
+39,male,16.8,Normal
+39,male,19,Overweight
+40,male,10.4,severly underweight
+40,male,11.8,Underweight
+40,male,13.3,Normal
+40,male,17,Normal
+40,male,19.3,Overweight
+41,male,10.5,severly underweight
+41,male,11.9,Underweight
+41,male,13.4,Normal
+41,male,17.2,Normal
+41,male,19.5,Overweight
+42,male,10.6,severly underweight
+42,male,12,Underweight
+42,male,13.6,Normal
+42,male,17.4,Normal
+42,male,19.7,Overweight
+43,male,10.7,severly underweight
+43,male,12.1,Underweight
+43,male,13.7,Normal
+43,male,17.6,Normal
+43,male,20,Overweight
+44,male,10.8,severly underweight
+44,male,12.2,Underweight
+44,male,13.8,Normal
+44,male,17.8,Normal
+44,male,20.2,Overweight
+45,male,10.9,severly underweight
+45,male,12.4,Underweight
+45,male,14,Normal
+45,male,18,Normal
+45,male,20.5,Overweight
+46,male,11,severly underweight
+46,male,12.5,Underweight
+46,male,14.1,Normal
+46,male,18.2,Normal
+46,male,20.7,Overweight
+47,male,11.1,severly underweight
+47,male,12.6,Underweight
+47,male,14.3,Normal
+47,male,18.4,Normal
+47,male,20.9,Overweight
+48,male,11.2,severly underweight
+48,male,12.7,Underweight
+48,male,14.4,Normal
+48,male,18.6,Normal
+48,male,21.2,Overweight
+49,male,11.3,severly underweight
+49,male,12.8,Underweight
+49,male,14.5,Normal
+49,male,18.8,Normal
+49,male,21.4,Overweight
+50,male,11.4,severly underweight
+50,male,12.9,Underweight
+50,male,14.7,Normal
+50,male,19,Normal
+50,male,21.7,Overweight
+51,male,11.5,severly underweight
+51,male,13.1,Underweight
+51,male,14.7,Normal
+51,male,19.2,Normal
+51,male,21.9,Overweight
+52,male,11.6,severly underweight
+52,male,13.2,Underweight
+52,male,15,Normal
+52,male,19.4,Normal
+52,male,22.2,Overweight
+53,male,11.7,severly underweight
+53,male,13.3,Underweight
+53,male,15.1,Normal
+53,male,19.6,Normal
+53,male,22.4,Overweight
+54,male,11.8,severly underweight
+54,male,13.4,Underweight
+54,male,15.2,Normal
+54,male,19.8,Normal
+54,male,22.7,Overweight
+55,male,11.9,severly underweight
+55,male,13.5,Underweight
+55,male,15.4,Normal
+55,male,20,Normal
+55,male,22.9,Overweight
+56,male,12,severly underweight
+56,male,13.6,Underweight
+56,male,15.5,Normal
+56,male,20.2,Normal
+56,male,23.2,Overweight
+57,male,12.1,severly underweight
+57,male,13.7,Underweight
+57,male,15.6,Normal
+57,male,20.4,Normal
+57,male,23.4,Overweight
+58,male,12.2,severly underweight
+58,male,13.8,Underweight
+58,male,15.8,Normal
+58,male,20.6,Normal
+58,male,23.7,Overweight
+59,male,12.3,severly underweight
+59,male,14,Underweight
+59,male,15.9,Normal
+59,male,20.8,Normal
+59,male,23.9,Overweight
+60,male,12.4,severly underweight
+60,male,14.1,Underweight
+60,male,16,Normal
+60,male,21,Normal
+60,male,24.2,Overweight
+0,female,2,severly underweight
+0,female,2.4,Underweight
+0,female,2.8,Normal
+0,female,3.7,Normal
+0,female,4.2,Overweight
+1,female,2.7,severly underweight
+1,female,3.2,Underweight
+1,female,3.6,Normal
+1,female,4.8,Normal
+1,female,5.5,Overweight
+2,female,3.4,severly underweight
+2,female,3.9,Underweight
+2,female,4.5,Normal
+2,female,5.8,Normal
+2,female,6.6,Overweight
+3,female,4,severly underweight
+3,female,4.5,Underweight
+3,female,5.2,Normal
+3,female,6.6,Normal
+3,female,7.5,Overweight
+4,female,4.4,severly underweight
+4,female,5,Underweight
+4,female,5.7,Normal
+4,female,7.3,Normal
+4,female,8.2,Overweight
+5,female,4.8,severly underweight
+5,female,5.4,Underweight
+5,female,6.1,Normal
+5,female,7.8,Normal
+5,female,8.8,Overweight
+6,female,5.1,severly underweight
+6,female,5.7,Underweight
+6,female,6.5,Normal
+6,female,8.2,Normal
+6,female,9.3,Overweight
+7,female,5.3,severly underweight
+7,female,6,Underweight
+7,female,6.8,Normal
+7,female,8.6,Normal
+7,female,9.8,Overweight
+8,female,5.6,severly underweight
+8,female,6.3,Underweight
+8,female,7,Normal
+8,female,9,Normal
+8,female,10.2,Overweight
+9,female,5.8,severly underweight
+9,female,6.5,Underweight
+9,female,7.3,Normal
+9,female,9.3,Normal
+9,female,10.5,Overweight
+10,female,5.9,severly underweight
+10,female,6.7,Underweight
+10,female,7.5,Normal
+10,female,9.6,Normal
+10,female,10.9,Overweight
+11,female,6.1,severly underweight
+11,female,6.9,Underweight
+11,female,7.7,Normal
+11,female,9.9,Normal
+11,female,11.2,Overweight
+12,female,6.3,severly underweight
+12,female,7,Underweight
+12,female,7.9,Normal
+12,female,10.1,Normal
+12,female,11.5,Overweight
+13,female,6.4,severly underweight
+13,female,7.2,Underweight
+13,female,8.1,Normal
+13,female,10.4,Normal
+13,female,11.8,Overweight
+14,female,6.6,severly underweight
+14,female,7.4,Underweight
+14,female,8.3,Normal
+14,female,10.6,Normal
+14,female,12.1,Overweight
+15,female,6.7,severly underweight
+15,female,7.6,Underweight
+15,female,8.5,Normal
+15,female,10.9,Normal
+15,female,12.4,Overweight
+16,female,6.9,severly underweight
+16,female,7.7,Underweight
+16,female,8.7,Normal
+16,female,11.1,Normal
+16,female,12.6,Overweight
+17,female,7,severly underweight
+17,female,7.9,Underweight
+17,female,8.9,Normal
+17,female,11.4,Normal
+17,female,12.9,Overweight
+18,female,7.2,severly underweight
+18,female,8.1,Underweight
+18,female,9.1,Normal
+18,female,11.6,Normal
+18,female,13.2,Overweight
+19,female,7.3,severly underweight
+19,female,8.2,Underweight
+19,female,9.2,Normal
+19,female,11.8,Normal
+19,female,13.5,Overweight
+20,female,7.5,severly underweight
+20,female,8.4,Underweight
+20,female,9.4,Normal
+20,female,12.1,Normal
+20,female,13.7,Overweight
+21,female,7.6,severly underweight
+21,female,8.6,Underweight
+21,female,9.6,Normal
+21,female,12.3,Normal
+21,female,14,Overweight
+22,female,7.8,severly underweight
+22,female,8.7,Underweight
+22,female,9.8,Normal
+22,female,12.5,Normal
+22,female,14.3,Overweight
+23,female,7.9,severly underweight
+23,female,8.9,Underweight
+23,female,10,Normal
+23,female,12.8,Normal
+23,female,14.6,Overweight
+24,female,8.1,severly underweight
+24,female,9,Underweight
+24,female,10.2,Normal
+24,female,13,Normal
+24,female,14.8,Overweight
+25,female,8.2,severly underweight
+25,female,9.2,Underweight
+25,female,10.3,Normal
+25,female,13.3,Normal
+25,female,15.1,Overweight
+26,female,8.4,severly underweight
+26,female,9.4,Underweight
+26,female,10.5,Normal
+26,female,13.5,Normal
+26,female,15.4,Overweight
+27,female,8.5,severly underweight
+27,female,9.5,Underweight
+27,female,10.7,Normal
+27,female,13.7,Normal
+27,female,15.7,Overweight
+28,female,8.6,severly underweight
+28,female,9.7,Underweight
+28,female,10.9,Normal
+28,female,14,Normal
+28,female,16,Overweight
+29,female,8.8,severly underweight
+29,female,9.8,Underweight
+29,female,11.1,Normal
+29,female,14.2,Normal
+29,female,16.2,Overweight
+30,female,8.9,severly underweight
+30,female,10,Underweight
+30,female,11.2,Normal
+30,female,14.4,Normal
+30,female,16.2,Overweight
+31,female,9,severly underweight
+31,female,10.1,Underweight
+31,female,11.4,Normal
+31,female,14.7,Normal
+31,female,16.8,Overweight
+32,female,9.1,severly underweight
+32,female,10.3,Underweight
+32,female,11.6,Normal
+32,female,14.9,Normal
+32,female,17.1,Overweight
+33,female,9.3,severly underweight
+33,female,10.4,Underweight
+33,female,11.7,Normal
+33,female,15.1,Normal
+33,female,17.3,Overweight
+34,female,9.4,severly underweight
+34,female,10.5,Underweight
+34,female,11.9,Normal
+34,female,15.4,Normal
+34,female,17.6,Overweight
+35,female,9.5,severly underweight
+35,female,10.7,Underweight
+35,female,12,Normal
+35,female,15.6,Normal
+35,female,17.9,Overweight
+36,female,9.6,severly underweight
+36,female,10.8,Underweight
+36,female,12.2,Normal
+36,female,15.8,Normal
+36,female,18.1,Overweight
+37,female,9.7,severly underweight
+37,female,10.9,Underweight
+37,female,12.4,Normal
+37,female,16,Normal
+37,female,18.4,Overweight
+38,female,9.8,severly underweight
+38,female,11.1,Underweight
+38,female,12.5,Normal
+38,female,16.3,Normal
+38,female,18.7,Overweight
+39,female,9.9,severly underweight
+39,female,11.2,Underweight
+39,female,12.7,Normal
+39,female,16.5,Normal
+39,female,19,Overweight
+40,female,10.1,severly underweight
+40,female,11.3,Underweight
+40,female,12.8,Normal
+40,female,16.7,Normal
+40,female,19.2,Overweight
+41,female,10.2,severly underweight
+41,female,11.5,Underweight
+41,female,13,Normal
+41,female,16.9,Normal
+41,female,19.5,Overweight
+42,female,10.3,severly underweight
+42,female,11.6,Underweight
+42,female,13.1,Normal
+42,female,17.2,Normal
+42,female,19.8,Overweight
+43,female,10.4,severly underweight
+43,female,11.7,Underweight
+43,female,13.3,Normal
+43,female,17.4,Normal
+43,female,20.1,Overweight
+44,female,10.5,severly underweight
+44,female,11.8,Underweight
+44,female,13.4,Normal
+44,female,17.6,Normal
+44,female,20.4,Overweight
+45,female,10.6,severly underweight
+45,female,12,Underweight
+45,female,13.6,Normal
+45,female,17.8,Normal
+45,female,20.7,Overweight
+46,female,10.7,severly underweight
+46,female,12.1,Underweight
+46,female,13.7,Normal
+46,female,18.1,Normal
+46,female,20.9,Overweight
+47,female,10.8,severly underweight
+47,female,12.2,Underweight
+47,female,13.9,Normal
+47,female,18.3,Normal
+47,female,21.2,Overweight
+48,female,10.9,severly underweight
+48,female,12.3,Underweight
+48,female,14,Normal
+48,female,18.5,Normal
+48,female,21.5,Overweight
+49,female,11,severly underweight
+49,female,12.4,Underweight
+49,female,14.2,Normal
+49,female,18.8,Normal
+49,female,21.8,Overweight
+50,female,11.1,severly underweight
+50,female,12.6,Underweight
+50,female,14.3,Normal
+50,female,19,Normal
+50,female,22.1,Overweight
+51,female,11.2,severly underweight
+51,female,12.7,Underweight
+51,female,14.5,Normal
+51,female,19.2,Normal
+51,female,22.4,Overweight
+52,female,11.3,severly underweight
+52,female,12.8,Underweight
+52,female,14.6,Normal
+52,female,19.4,Normal
+52,female,22.6,Overweight
+53,female,11.4,severly underweight
+53,female,12.9,Underweight
+53,female,14.8,Normal
+53,female,19.7,Normal
+53,female,22.9,Overweight
+54,female,11.5,severly underweight
+54,female,13,Underweight
+54,female,14.9,Normal
+54,female,19.9,Normal
+54,female,23.2,Overweight
+55,female,11.6,severly underweight
+55,female,13.2,Underweight
+55,female,15.1,Normal
+55,female,20.1,Normal
+55,female,23.5,Overweight
+56,female,11.7,severly underweight
+56,female,13.3,Underweight
+56,female,15.2,Normal
+56,female,20.3,Normal
+56,female,23.8,Overweight
+57,female,11.8,severly underweight
+57,female,13.4,Underweight
+57,female,15.3,Normal
+57,female,20.6,Normal
+57,female,24.1,Overweight
+58,female,11.9,severly underweight
+58,female,13.5,Underweight
+58,female,15.5,Normal
+58,female,20.8,Normal
+58,female,24.4,Overweight
+59,female,12,severly underweight
+59,female,13.6,Underweight
+59,female,15.6,Normal
+59,female,21,Normal
+59,female,24.6,Overweight
+60,female,12.1,severly underweight
+60,female,13.7,Underweight
+60,female,15.8,Normal
+60,female,21.2,Normal
+60,female,24.9,Overweight
